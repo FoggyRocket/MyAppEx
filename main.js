@@ -1,6 +1,4 @@
-<<<<<<< Updated upstream
 console.log('hay wey ');
-=======
 //comentario de kain
 /**
  * @function [mates] esta funcion hace mates
@@ -24,4 +22,3 @@ const fizz = ()=> {
 }
 
 fizz()
->>>>>>> Stashed changes
